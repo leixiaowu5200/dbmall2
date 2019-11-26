@@ -1,0 +1,19 @@
+{
+  "name": "dbmall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-dev": "cross-env UMI_ENV=dev umi dev"
+   
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "umi-plugin-react": "^1.14.2"
+  },
+  "devDependencies": {
+    "axios": "^0.19.0"
+  }
+}

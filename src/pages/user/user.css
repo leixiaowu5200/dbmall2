@@ -1,0 +1,19 @@
+
+/* .normal {
+  background: #79F2DA;
+} */
+#components-layout-demo-side .logo {
+  height: 32px;
+  background: rgba(255, 255, 255, 0.2);
+  margin: 16px;
+}
+.touxiang{
+ position:fixed;
+ left:90%;
+ cursor: pointer;
+ z-index: 2;
+ user-select: none;
+}
+.bxs{
+  cursor: pointer;
+}
